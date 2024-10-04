@@ -1,0 +1,17 @@
+C:\Users\jsaracad\source\repos\Zam\Zam\bin\Debug\net8.0-windows\Zam.exe
+C:\Users\jsaracad\source\repos\Zam\Zam\bin\Debug\net8.0-windows\Zam.deps.json
+C:\Users\jsaracad\source\repos\Zam\Zam\bin\Debug\net8.0-windows\Zam.runtimeconfig.json
+C:\Users\jsaracad\source\repos\Zam\Zam\bin\Debug\net8.0-windows\Zam.dll
+C:\Users\jsaracad\source\repos\Zam\Zam\bin\Debug\net8.0-windows\Zam.pdb
+C:\Users\jsaracad\source\repos\Zam\Zam\obj\Debug\net8.0-windows\Zam.Form1.resources
+C:\Users\jsaracad\source\repos\Zam\Zam\obj\Debug\net8.0-windows\Zam.csproj.GenerateResource.cache
+C:\Users\jsaracad\source\repos\Zam\Zam\obj\Debug\net8.0-windows\Zam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsaracad\source\repos\Zam\Zam\obj\Debug\net8.0-windows\Zam.AssemblyInfoInputs.cache
+C:\Users\jsaracad\source\repos\Zam\Zam\obj\Debug\net8.0-windows\Zam.AssemblyInfo.cs
+C:\Users\jsaracad\source\repos\Zam\Zam\obj\Debug\net8.0-windows\Zam.csproj.CoreCompileInputs.cache
+C:\Users\jsaracad\source\repos\Zam\Zam\obj\Debug\net8.0-windows\Zam.dll
+C:\Users\jsaracad\source\repos\Zam\Zam\obj\Debug\net8.0-windows\refint\Zam.dll
+C:\Users\jsaracad\source\repos\Zam\Zam\obj\Debug\net8.0-windows\Zam.pdb
+C:\Users\jsaracad\source\repos\Zam\Zam\obj\Debug\net8.0-windows\Zam.genruntimeconfig.cache
+C:\Users\jsaracad\source\repos\Zam\Zam\obj\Debug\net8.0-windows\ref\Zam.dll
+C:\Users\jsaracad\source\repos\Zam\Zam\obj\Debug\net8.0-windows\Zam.Properties.Resources.resources
